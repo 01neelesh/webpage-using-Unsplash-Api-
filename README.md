@@ -8,7 +8,12 @@ using tailwind css
 
 ## Preview
 
-![WebSite preview]()
+![WebSite preview](https://github.com/01neelesh/webpage-using-Unsplash-Api-/blob/main/Scrennshots/thekua%20shop%201.png?raw=true)
+![WebSite preview](https://github.com/01neelesh/webpage-using-Unsplash-Api-/blob/main/Scrennshots/thekua%20shop%202.png?raw=true)
+
+
+## After Refreshing image got changed 
+![After Refreshing](https://github.com/01neelesh/webpage-using-Unsplash-Api-/blob/main/Scrennshots/thekua%20shop%202.png?raw=true)
 
 
 
