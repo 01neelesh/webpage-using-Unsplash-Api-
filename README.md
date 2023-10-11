@@ -5,6 +5,7 @@ The webpage named <b>"the thekua garment shop" using tailwind css. <br>
 
 <strong>After refreshing the webpage, the picture will automatically change. </strong>  
 
+<h3> Funfact: "This webpage had been created in less than 6 minutes."
 
 ## Preview
 
